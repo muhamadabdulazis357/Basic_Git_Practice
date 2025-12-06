@@ -1,2 +1,2 @@
-# LatihanGitDasar
-Belajar Git Dasar
+# Basic git Practice
+Learn Basic Git
